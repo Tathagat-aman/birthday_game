@@ -9,9 +9,9 @@ import time
 # Config
 QUESTIONS = [
     ("Where did we first meet?", "cyber city, gurgaon"),
-    ("What is Shivani's favourite food?", "cakes, sweets, pastries"),
+    ("What is Shivani's favourite food?", "cakes, sweets, pastries, pizza"),
     ("Who usually takes either to dates?", "shivani"),
-    ("What is Shivani's favorite date places?", "coffee dates, starbucks ,cafe,pizza"),
+    ("What is Shivani's favorite date places?", "coffee dates, starbucks ,cafe"),
     ("Who gifts each other the most?", "shivani"),
     ("Who loves the most?", "shivani"),
     ("What do you love most about aman?", "whatever she says just tell it's correct")
