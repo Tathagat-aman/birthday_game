@@ -19,11 +19,11 @@ QUESTIONS = [
 
 GIFTS = ["cake.png", "gucci_bag.png", "teddy.png", "heart.png"]
 
-st.set_page_config(page_title="Shivani's Birthday Game", layout="centered")
+st.set_page_config(page_title="Shivani's Birthday Game", layout="wide")
 
 st.markdown("""
     <style>
-        .stApp { background-color: #fffbe6; }
+        .stApp { background-color: #fffbe6; color: #262730; }
         h1, h2, h3 { color: #ff4b4b; }
     </style>
 """, unsafe_allow_html=True)
