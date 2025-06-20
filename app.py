@@ -23,16 +23,8 @@ st.set_page_config(page_title="Shivani's Birthday Game", layout="wide")
 
 st.markdown("""
     <style>
-        .stApp { background-color: #fffbe6; color: #262730; }
+        .stApp {  }
         h1, h2, h3 { color: #ff4b4b; }
-        label, .stTextInput > div > div > input, .stTextInput input, .stTextInput label {
-            color: #262730 !important;
-            background-color: #fff !important;
-        }
-        input, textarea {
-            color: #262730 !important;
-            background-color: #fff !important;
-        }
     </style>
 """, unsafe_allow_html=True)
 
